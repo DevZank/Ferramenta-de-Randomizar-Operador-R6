@@ -1,0 +1,1 @@
+# Ferramenta-de-Randomizar-Operador-R6
